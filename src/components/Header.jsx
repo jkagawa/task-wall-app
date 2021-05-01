@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <CheckCircleOutlineIcon />
-        Task Wall
+        <div>Task Wall</div>
       </h1>
     </header>
   );
